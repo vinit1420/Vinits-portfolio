@@ -1,4 +1,3 @@
-# Vinit's portfolio
 
 # [Project 1: HDFC: Business Analyst - RBI Card Performance Dashboard](https://github.com/vinit1420/HDFC-Performance-Dashboard/tree/main)
 
